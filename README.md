@@ -4,7 +4,8 @@ Necessary libraries: urllib2, smtplib, BeautifulSoup
 
 Instructions:
 
-Fill out custom information. It is a good idea to make a blank gmail account to act as the email account for this bot. 
+Fill out the custom information at the top of the file. 
+It is a good idea to make a blank gmail account to act as the email account for this bot. 
 Storing passwords with any sort of importance in plaintext is a bad idea.
 
 The queries variable should be list of keywords you want the bot to search for.
