@@ -1,4 +1,4 @@
-# Craigslist-Job-Notifer
+# Craigslist-Job-Notifier
 
 Necessary libraries: urllib2, smtplib, BeautifulSoup
 
