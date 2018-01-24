@@ -1,8 +1,8 @@
 # Craigslist-Job-Notifer
 
-Instructions:
-
 Necessary libraries: urllib2, smtplib, BeautifulSoup
+
+Instructions:
 
 Fill out custom information. It is a good idea to make a blank gmail account to act as the email account for this bot. 
 Storing passwords with any sort of importance in plaintext is a bad idea.
